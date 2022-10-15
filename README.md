@@ -1,4 +1,4 @@
-# Software Engineer Career Development
+# Goal setting for software engineers
 
 ## How to use this repo
 1. Select "Use this template" and set up a new repo under your personal GitHub account. Make it private.
